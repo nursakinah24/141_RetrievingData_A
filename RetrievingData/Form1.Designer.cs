@@ -1,7 +1,7 @@
 ﻿
 namespace RetrievingData
 {
-    partial class Form1
+    partial class EmployeeDetails
     {
         /// <summary>
         /// Required designer variable.
@@ -31,12 +31,12 @@ namespace RetrievingData
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // EmployeeDetails
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.Name = "EmployeeDetails";
             this.Text = " EmployeeDetails";
             this.ResumeLayout(false);
 
